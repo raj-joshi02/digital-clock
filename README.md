@@ -13,6 +13,3 @@ This project features both a **Digital Clock** and an **Analog Clock** with an o
 - 🔄 **Toggle Mode** – Easily switch between **Digital** and **Analog** view with buttons.  
 
 ---
-
-## 📂 Project Structure  
-
